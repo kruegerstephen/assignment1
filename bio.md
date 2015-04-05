@@ -11,3 +11,5 @@ I love music. I generally listen to folk, hip hop, and electronic music.
 I'm really into film. My favorite Directors are probably Lynch and Tarkovsky. 
 
 I come from a huge family; my extended family is over 90 people. 
+
+I spent my spring break in Canada, going from Quebec, through Montreal, to Toronto. 
