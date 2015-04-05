@@ -1,3 +1,5 @@
 Programming background
 
 Like I mentioned in my non-programmin bio, I worked for Panera for 6 months. In this time I learned a lot about website management, and my big project for them was to develope their testing automation framework using Selenium. 
+
+That is by far the most impressive code-related thing on my resume. I took a writing for the web class where we were tasked with making our own website. I had built and maintained a website blog for a few months. 
